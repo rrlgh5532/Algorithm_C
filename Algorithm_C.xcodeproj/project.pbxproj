@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8B6B91B5282FE10E004C2F9D /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 8B6B91B4282FE10E004C2F9D /* main.c */; };
 		8B6B91BE282FEAA4004C2F9D /* [15953] 상금 헌터.c in Sources */ = {isa = PBXBuildFile; fileRef = 8B6B91BD282FEAA4004C2F9D /* [15953] 상금 헌터.c */; };
+		8B6B91C228327FF9004C2F9D /* [15954] 인형들.c in Sources */ = {isa = PBXBuildFile; fileRef = 8B6B91C128327FF9004C2F9D /* [15954] 인형들.c */; };
 		9B2936412830B71C009EC53D /* [11720] 숫자의 합.c in Sources */ = {isa = PBXBuildFile; fileRef = 9B2936402830B71C009EC53D /* [11720] 숫자의 합.c */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		8B6B91B1282FE10E004C2F9D /* Algorithm_C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm_C; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B6B91B4282FE10E004C2F9D /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		8B6B91BD282FEAA4004C2F9D /* [15953] 상금 헌터.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "[15953] 상금 헌터.c"; sourceTree = "<group>"; };
+		8B6B91C128327FF9004C2F9D /* [15954] 인형들.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "[15954] 인형들.c"; sourceTree = "<group>"; };
 		9B2936402830B71C009EC53D /* [11720] 숫자의 합.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "[11720] 숫자의 합.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 				8B6B91B4282FE10E004C2F9D /* main.c */,
 				8B6B91BD282FEAA4004C2F9D /* [15953] 상금 헌터.c */,
 				9B2936402830B71C009EC53D /* [11720] 숫자의 합.c */,
+				8B6B91C128327FF9004C2F9D /* [15954] 인형들.c */,
 			);
 			path = Algorithm_C;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B6B91B5282FE10E004C2F9D /* main.c in Sources */,
+				8B6B91C228327FF9004C2F9D /* [15954] 인형들.c in Sources */,
 				9B2936412830B71C009EC53D /* [11720] 숫자의 합.c in Sources */,
 				8B6B91BE282FEAA4004C2F9D /* [15953] 상금 헌터.c in Sources */,
 			);
